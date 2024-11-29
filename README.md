@@ -8,7 +8,9 @@
 3. [Запуск и тестирование](#dev)
 
 <br>
+
 ### 1. Пользовательский интерфейс <a id="user-interface"></a>
+
 ![меню](https://github.com/zaritskiiAA/daily_manager/blob/main/img/menu.PNG)
 
 ### 2. Описание основных сущностей и их интерфейсов<a id="object-interface"></a>
